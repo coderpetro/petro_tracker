@@ -10,3 +10,24 @@ pip install -r requirements.txt
 ```bash
 python tracker.py
 ```
+
+
+```text
+  _____  ______ _______ _____   ____  
+ |  __ \|  ____|__   __|  __ \ / __ \ 
+ | |__) | |__     | |  | |__) | |  | |
+ |  ___/|  __|    | |  |  _  /| |  | |
+ | |    | |____   | |  | | \ \| |__| |
+ |_|    |______|  |_|  |_|  \_\\____/ 
+
+======================================
+       ALL-IN-ONE OSINT TOOL
+         DEVELOPED BY: PETRO
+======================================
+[1] IP Tracker
+[2] My IP Details
+[3] Phone number Basic Info
+[4] Username Tracker
+[0] Exit
+
+choose from menu>
