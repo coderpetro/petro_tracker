@@ -1,4 +1,5 @@
-<pre><small>
+<pre style="background-color: #000000; color: #ff0000; padding: 15px; border-radius: 5px;">
+<small>
   _____  ______ _______ _____   ____  
  |  __ \|  ____|__   __|  __ \ / __ \ 
  | |__) | |__     | |  | |__) | |  | |
@@ -17,7 +18,9 @@
 [0] Exit
 
 choose from menu>
-</small></pre>
+</small>
+</pre>
+
 
 
 ```bash
