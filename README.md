@@ -1,18 +1,4 @@
-```bash
-git clone https://github.com/coderpetro/petro_tracker.git
-```
-```bash
-cd petro_tracker
-```
-```bash
-pip install -r requirements.txt
-```
-```bash
-python tracker.py
-```
-
-
-```text
+<pre><small>
   _____  ______ _______ _____   ____  
  |  __ \|  ____|__   __|  __ \ / __ \ 
  | |__) | |__     | |  | |__) | |  | |
@@ -31,3 +17,19 @@ python tracker.py
 [0] Exit
 
 choose from menu>
+</small></pre>
+
+
+```bash
+git clone https://github.com/coderpetro/petro_tracker.git
+```
+```bash
+cd petro_tracker
+```
+```bash
+pip install -r requirements.txt
+```
+```bash
+python tracker.py
+```
+  
